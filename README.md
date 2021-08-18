@@ -38,6 +38,7 @@
 
 
 13-8 Energía almacenada por una inductancia
+
 33. Encuentre la energía almacenada en el inductor de la figura 13-44
 
 ![image](https://user-images.githubusercontent.com/85208164/129961192-fc9c230f-05a8-402a-afa6-96ded1207cf7.png)
@@ -46,6 +47,7 @@
 
 
 13-9 Sugerencias para la resolución de problemas con inductores
+
 35. En la figura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la falla probable?
 
 ![image](https://user-images.githubusercontent.com/85208164/129961311-f17b5706-59c1-48f2-9b1e-b6a3004a1fef.png)
@@ -55,6 +57,7 @@ La trayectoria que contiene L1 y L2 está abierta.
 ### Ejercicios Capítulo 14
 
 14-1 Introducción
+
 1. a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?
 b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente después de que el interruptor se cierra.
 
