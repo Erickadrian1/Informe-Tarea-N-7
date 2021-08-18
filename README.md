@@ -27,6 +27,8 @@
 
 ### Capítulo 14
 
+![Blank diagram (1)](https://user-images.githubusercontent.com/84588860/129835771-ef5ea7fa-5ab2-4313-9705-81e86dc4d333.png)
+
 
 ## 3. Explicación y Resolución de ejercicios o problemas: 
 
