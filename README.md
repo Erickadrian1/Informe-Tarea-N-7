@@ -132,6 +132,8 @@ Circuito abierto
 
 ![image](https://user-images.githubusercontent.com/85208164/129961618-7797ba7c-975c-4fe7-b1f7-12d689d1a1b8.png)
 
+![image](https://user-images.githubusercontent.com/85208164/130288281-9d0d7de1-1285-46bf-8423-ac8094531f1c.png)
+
 **7. Repita el problema 5 para el circuito de la figura 14-41 con L= 4 H**
 
 ![image](https://user-images.githubusercontent.com/85208164/129961648-bb606d5f-e5a6-4f3e-ae39-01254d7e0c71.png)
@@ -140,6 +142,7 @@ Circuito abierto
 
 ![image](https://user-images.githubusercontent.com/85208164/129961684-ac4c19a0-c054-43c5-860c-f10978f390af.png)
 
+![image](https://user-images.githubusercontent.com/85208164/130288491-c7c144ad-ac7c-4381-9074-3faeed88349b.png)
 
 **9. Cierre el interruptor en t = 0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t= 3.4 ms.**
 
