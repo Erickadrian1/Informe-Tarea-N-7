@@ -17,9 +17,11 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Objetivos: 
 
+### Generales:
+
 Realizar el informe en donde se muestre de manera global todos los conocimientos adquiridos e investigados sobre el origen de la inductancia y capacitancia, asi mismo analizaremos los Transitorios (RL)básicos, su relación con la corriente, voltaje, energia y sobre todo maneras eficientes de usuarlas evitando en su maximo un valor alto de error en el cálculo de problemas planteados para analizar de manera mas exacta los ejercicios presentes en el libro propuesto. 
 
-### Generales:
+### Especificos: 
 
 -Identificar cada una de las leyes fundamentales en el estudio de inductacias y capacitancias.
 
@@ -31,7 +33,6 @@ Realizar el informe en donde se muestre de manera global todos los conocimientos
 
 -Analizar los ejercios planteados sobre los transitorios RL básicos.
 
-### Especificos: 
 
 ### 2. Marco Teorico: 
 
