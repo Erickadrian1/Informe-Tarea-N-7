@@ -17,7 +17,19 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 1.Objetivos: 
 
+Realizar el informe en donde se muestre de manera global todos los conocimientos adquiridos e investigados sobre el origen de la inductancia y capacitancia, asi mismo analizaremos los Transitorios (RL)básicos, su relación con la corriente, voltaje, energia y sobre todo maneras eficientes de usuarlas evitando en su maximo un valor alto de error en el cálculo de problemas planteados para analizar de manera mas exacta los ejercicios presentes en el libro propuesto. 
+
 ### Generales:
+
+-Identificar cada una de las leyes fundamentales en el estudio de inductacias y capacitancias.
+
+-Clarificar el estudio de la inductancia e inductores además de los transitorios inductivos todo esto aplicando los conocimientos aprendidos e investigados previamente.
+
+-Calcular la corriente, voltaje, energia en relacion a la inducatancia, manteniendo un calor mínimo de margen de error.
+
+-Conocer la perspectiva historica de los los transitorios inductivos.
+
+-Analizar los ejercios planteados sobre los transitorios RL básicos.
 
 ### Especificos: 
 
