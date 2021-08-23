@@ -209,10 +209,14 @@ Circuito abierto
 
 ![image](https://user-images.githubusercontent.com/85208164/129961800-0927e6c7-7867-4d87-9716-b65b2160ea24.png)
 
-**15. Para la figura 14-43, R1 = 20 Ω, R2 = 230 Ω y L = 0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t = 0 s, el interruptor se abre. 
+**15. Para la figura 14-43, R1 = 20 Ω, R2 = 230 Ω y L = 0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t = 0 s, el interruptor se abre.** 
+
 a. ¿Cuál es la constante de tiempo en la fase de disminución? 
+
 b. Determine las ecuaciones para iL y vL. 
+
 c. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 t. 
+
 d. Grafique iL y vL. Marque el eje en t y en segundos
 
 ![image](https://user-images.githubusercontent.com/84789076/130525523-6739bdfd-d051-4fe5-a974-20d5638331d8.png)
