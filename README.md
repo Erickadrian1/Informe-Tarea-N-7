@@ -221,27 +221,27 @@ d. Grafique iL y vL. Marque el eje en t y en segundos
 
 ![image](https://user-images.githubusercontent.com/84789076/130525523-6739bdfd-d051-4fe5-a974-20d5638331d8.png)
 
-**17. Dado vL = -2700 Ve -100 t . Use la curva universal de la constante de tiempo para determinar vL en t = 20 ms.
+**17. Dado vL = -2700 Ve -100 t . Use la curva universal de la constante de tiempo para determinar vL en t = 20 ms.**
 
-**19. Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.
+**19. Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.**
 
 ![image](https://user-images.githubusercontent.com/84789076/130525605-91b77da2-26ab-4c9b-ba23-202a01007b80.png)
 
-**14-5 Circuitos más complejos 
+**14-5 Circuitos más complejos** 
 
-**21. Para la bobina de la figura 14-45 Rt =1.7 Ω y L = 150 mH. Determine la corriente de la bobina en t = 18.4 ms.
+**21. Para la bobina de la figura 14-45 Rt =1.7 Ω y L = 150 mH. Determine la corriente de la bobina en t = 18.4 ms.**
 
 ![image](https://user-images.githubusercontent.com/84789076/130525659-645a8c29-5cd1-4dcc-a980-b940cbea0ad8.png)
 
-**23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor. a. Determine la constante de tiempo del circuito des energizado. b. Determine las ecuaciones para iL y vL. c. Encuentre el voltaje en el inductor y la corriente a través de él en t  17.8 s, use las ecuaciones que se determinaron antes.
+**23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor. a. Determine la constante de tiempo del circuito des energizado. b. Determine las ecuaciones para iL y vL. c. Encuentre el voltaje en el inductor y la corriente a través de él en t  17.8 s, use las ecuaciones que se determinaron antes.**
 
 ![image](https://user-images.githubusercontent.com/84789076/130525683-c1ce52e2-7989-413a-85ed-8cd7a447a8f6.png)
 
-**25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47. b. ¿Cuánto es iL y vL en t 25 ms?
+**25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47. b. ¿Cuánto es iL y vL en t 25 ms?**
 
 ![image](https://user-images.githubusercontent.com/84789076/130525718-e7238358-3159-4c75-a696-a0667621e83f.png)
 
-**27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado
+**27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado**
 
 ![image](https://user-images.githubusercontent.com/84789076/130525749-d41a05b9-946f-4a78-8e36-c60522d6c5f9.png)
 
