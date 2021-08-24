@@ -169,6 +169,8 @@ Circuito abierto
 
 ![image](https://user-images.githubusercontent.com/85208164/129961507-62a377e3-bd5d-40e8-999c-9932e59607e2.png)
 
+![image](https://user-images.githubusercontent.com/85208164/130547564-5b8b6dbc-62b5-4585-9038-57801ffe2769.png)
+
 
 **14-2 Transitorio de corriente creciente**
 
