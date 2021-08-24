@@ -275,9 +275,11 @@ d. Grafique iL y vL. Marque el eje en t y en segundos
 
 **27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado**
 
-![image](https://user-images.githubusercontent.com/84789076/130525749-d41a05b9-946f-4a78-8e36-c60522d6c5f9.png)
-
 ![image](https://user-images.githubusercontent.com/84789076/130619463-43d54514-f63e-4fd9-b3ce-792e86936f25.png)
+
+**33. Se resolvió el circuito de la figura 14-22(a) mediante la reducción a su equivalente de Thévenin. Use PSpice para analizar el circuito en su forma original y grafique la corriente del inductor. Verifique algunos puntos en la curva calculando los valores de acuerdo con la solución del ejemplo 14-8 y compare con los valores que obtuvo en la pantalla.** 
+
+![image](https://user-images.githubusercontent.com/84789076/130619936-422d9572-c238-4b78-a86e-d670e9d2cbce.png)
 
 ## 4. Video: 
 
