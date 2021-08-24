@@ -209,15 +209,25 @@ Circuito abierto
 
 **13. Para la figura 14-1(b), si vL= 40e^-2000t V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?**
 
-![image](https://user-images.githubusercontent.com/85208164/129961800-0927e6c7-7867-4d87-9716-b65b2160ea24.png)
+![image](https://user-images.githubusercontent.com/84789076/130617682-58cd03f6-07b9-4730-b66a-3ea518f1ad60.png)
 
 **15. Para la figura 14-43, R1 = 20 Ω, R2 = 230 Ω y L = 0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t = 0 s, el interruptor se abre.** 
 
 a. ¿Cuál es la constante de tiempo en la fase de disminución? 
 
+![image](https://user-images.githubusercontent.com/84789076/130617918-aee86480-7017-4fbc-9917-5a8e3227dd42.png)
+
 b. Determine las ecuaciones para iL y vL. 
 
+![image](https://user-images.githubusercontent.com/84789076/130618024-3948e76d-b0a6-46d8-a6b0-45d71db26071.png)
+
 c. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 t. 
+
+![image](https://user-images.githubusercontent.com/84789076/130618088-a4566275-b833-44d7-b200-af947cdda924.png)
+
+![image](https://user-images.githubusercontent.com/84789076/130618189-94d42375-6f4f-47ce-b03c-7b8503fc731b.png)
+
+![image](https://user-images.githubusercontent.com/84789076/130618249-42a2cd1d-2105-414d-a76b-1ddf886fde0c.png)
 
 d. Grafique iL y vL. Marque el eje en t y en segundos
 
@@ -225,9 +235,16 @@ d. Grafique iL y vL. Marque el eje en t y en segundos
 
 **17. Dado vL = -2700 Ve -100 t . Use la curva universal de la constante de tiempo para determinar vL en t = 20 ms.**
 
+![image](https://user-images.githubusercontent.com/84789076/130617433-925fc714-f7b1-40c4-aadf-23d53799f438.png)
+
+
 **19. Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.**
 
 ![image](https://user-images.githubusercontent.com/84789076/130525605-91b77da2-26ab-4c9b-ba23-202a01007b80.png)
+
+![image](https://user-images.githubusercontent.com/84789076/130618510-efaf343d-b2b5-4bc7-b99f-215e6c05b937.png)
+
+![image](https://user-images.githubusercontent.com/84789076/130618571-10b1acc4-3b58-41a7-97d9-8c26e59fbb84.png)
 
 **14-5 Circuitos más complejos** 
 
@@ -235,17 +252,32 @@ d. Grafique iL y vL. Marque el eje en t y en segundos
 
 ![image](https://user-images.githubusercontent.com/84789076/130525659-645a8c29-5cd1-4dcc-a980-b940cbea0ad8.png)
 
+![image](https://user-images.githubusercontent.com/84789076/130618660-edb81ba7-8846-487f-b3a7-da602339b35b.png)
+
+![image](https://user-images.githubusercontent.com/84789076/130618717-6c11c32e-7b22-497e-b86c-481f7a3a4d04.png)
+
+
 **23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor. a. Determine la constante de tiempo del circuito des energizado. b. Determine las ecuaciones para iL y vL. c. Encuentre el voltaje en el inductor y la corriente a través de él en t  17.8 s, use las ecuaciones que se determinaron antes.**
 
 ![image](https://user-images.githubusercontent.com/84789076/130525683-c1ce52e2-7989-413a-85ed-8cd7a447a8f6.png)
+
+![image](https://user-images.githubusercontent.com/84789076/130619069-76901538-e2c9-4aaa-9595-7149d8d1bbd3.png)
 
 **25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47. b. ¿Cuánto es iL y vL en t 25 ms?**
 
 ![image](https://user-images.githubusercontent.com/84789076/130525718-e7238358-3159-4c75-a696-a0667621e83f.png)
 
+![image](https://user-images.githubusercontent.com/84789076/130619181-25f904ed-de2f-4796-b766-48447e560b15.png)
+
+![image](https://user-images.githubusercontent.com/84789076/130619277-08cc980b-85bc-4868-938a-daf6cba27da2.png)
+
+![image](https://user-images.githubusercontent.com/84789076/130619377-4e8cd825-160d-42c2-bfc5-8e0b6e06ddc8.png)
+
 **27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado**
 
 ![image](https://user-images.githubusercontent.com/84789076/130525749-d41a05b9-946f-4a78-8e36-c60522d6c5f9.png)
+
+![image](https://user-images.githubusercontent.com/84789076/130619463-43d54514-f63e-4fd9-b3ce-792e86936f25.png)
 
 ## 4. Video: 
 
