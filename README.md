@@ -136,7 +136,7 @@ Realizar el informe en donde se muestre de manera global todos los conocimientos
 
 ![image](https://user-images.githubusercontent.com/85208164/129961192-fc9c230f-05a8-402a-afa6-96ded1207cf7.png)
 
-![image](https://user-images.githubusercontent.com/85208164/129961279-66c2e2c5-ab11-4366-9904-97cd929a3f7e.png)
+![image](https://user-images.githubusercontent.com/85208164/130788571-07d00f77-86d7-4952-bb48-8ed543a09866.png)
 
 
 **13-9 Sugerencias para la resolución de problemas con inductores**
@@ -209,7 +209,7 @@ Circuito abierto
 
 **13. Para la figura 14-1(b), si vL= 40e^-2000t V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?**
 
-![image](https://user-images.githubusercontent.com/84789076/130617682-58cd03f6-07b9-4730-b66a-3ea518f1ad60.png)
+![image](https://user-images.githubusercontent.com/85208164/130788662-29c5d2f6-f938-4831-a58c-1746f8334efb.png)
 
 **15. Para la figura 14-43, R1 = 20 Ω, R2 = 230 Ω y L = 0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t = 0 s, el interruptor se abre.** 
 
