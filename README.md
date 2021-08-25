@@ -73,7 +73,7 @@ Realizar el informe en donde se muestre de manera global todos los conocimientos
 
 ![image](https://user-images.githubusercontent.com/84594486/130288802-0e598f80-afb3-43c7-9f73-1fdefa5e0158.png)
 
-**11. El inductor de núcleo de hierro de la figura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI Haa. Debido a que el espacio de aire predomina, no ocurre la saturación y el flujo del núcleo es proporcional a la corriente, es decir, el enlace de flujo es igual a LI. Adicionalmente, ya que todo el flujo pasa a través de la bobina, el enlace de flujo es igual a N . Al igualar los dos valores del enlace de flujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es **
+**11. El inductor de núcleo de hierro de la figura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI Haa. Debido a que el espacio de aire predomina, no ocurre la saturación y el flujo del núcleo es proporcional a la corriente, es decir, el enlace de flujo es igual a LI. Adicionalmente, ya que todo el flujo pasa a través de la bobina, el enlace de flujo es igual a N . Al igualar los dos valores del enlace de flujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es**
 
 ![image](https://user-images.githubusercontent.com/84594486/130288953-9de48214-5c6e-4749-90c7-1d115d3f1cef.png)
 
