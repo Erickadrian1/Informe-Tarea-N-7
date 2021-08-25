@@ -283,6 +283,8 @@ d. Grafique iL y vL. Marque el eje en t y en segundos
 
 ## 4. Video: 
 
+https://www.youtube.com/watch?v=rp8gqaoXhVc
+
 ## 5. Conclusiones: 
 
 Para calcular el voltaje y corriente de un inductor cuando el circuito adquiere el estado estable. Primero se ubica los inductores como un cortocircuito, se calcula el voltaje, corriente y resistencia como un circuito cualquiera y a partir de ahí se aplica cualquier método para la resolución de circuitos y con ello se obtiene voltaje y corriente de un inductor.
